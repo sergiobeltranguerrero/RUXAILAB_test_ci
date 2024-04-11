@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Welcome to UX Remote LAB</h1>
+  <h1>Welcome to UX Remote LAB test</h1>
   <p><strong>UX Remote LAB</strong> is a user-friendly platform for usability testing and heuristic evaluation. Designed and provided by <a href="https://retlab-dev.firebaseapp.com/">UX Remote LAB</a>, it is a web application developed to assist project creators in gathering valuable insights from their users.</p>
 </div>
 
